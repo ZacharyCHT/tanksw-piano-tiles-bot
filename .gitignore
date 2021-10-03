@@ -1,3 +1,11 @@
+.idea/
+.idea/*
+.idea/*.*
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/tanksw-piano-tiles-bot.iml
+.idea/vcs.xml
 /.idea/
 /.idea/*
 /.idea/*.*
@@ -6,3 +14,11 @@
 /.idea/runConfigurations.xml
 /.idea/tanksw-piano-tiles-bot.iml
 /.idea/vcs.xml
+idea/
+idea/*
+idea/*.*
+idea/misc.xml
+idea/modules.xml
+idea/runConfigurations.xml
+idea/tanksw-piano-tiles-bot.iml
+idea/vcs.xml
