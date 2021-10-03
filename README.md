@@ -1,5 +1,6 @@
 
 # tanksw.com Piano Tiles Bot
+## NOTE: The tile coordinates are hard-coded from my experience with the game on my computer as of right now but could easily be changed to be customizable.
 
 A very simple script that automates the classic Piano Tiles game mode at
 **http://tanksw.com/piano-tiles/**
@@ -35,3 +36,4 @@ I have included some hopefully easy to follow instructions to get it running. As
 ## Contact
 If you would like to discuss it or ask for help using it join the discord and ask 😃
 __https://discord.com/invite/2f97NBgCuF__
+
